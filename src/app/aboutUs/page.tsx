@@ -104,7 +104,14 @@ const teamMembers = [
   },
   {
     name: "Anmol Singh",
-    role: "UI ux",
+    role: "Full Stack Developer",
+    Github: "https://Github.com/anmol-singh",
+    linkedin: "https://www.linkedin.com/in/anmol-singh/",
+    email: "anmol@example.com",
+  },
+  {
+    name: "Rohit Gangwar",
+    role: "Full Stack Developer",
     Github: "https://Github.com/anmol-singh",
     linkedin: "https://www.linkedin.com/in/anmol-singh/",
     email: "anmol@example.com",
