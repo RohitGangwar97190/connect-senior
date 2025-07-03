@@ -114,7 +114,7 @@ const teamMembers = [
     role: "Full Stack Developer",
     Github: "https://Github.com/anmol-singh",
     linkedin: "https://www.linkedin.com/in/anmol-singh/",
-    email: "anmol@example.com",
+    email: "Rohit@example.com",
   },
 ];
 
